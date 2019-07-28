@@ -1,0 +1,12 @@
+body {
+    background-image: url(../images/background.png);
+    background-position: center top;
+    background-size: cover;
+    text-align: center;
+}
+
+main a{
+  display: inline-block;
+}
+
+.main_nav
